@@ -86,6 +86,13 @@
     <string name="analog_gadget" msgid="1670505720837152766">"Часы"</string>
     <string name="help" msgid="7786263119482654015">"справка"</string>
     <string name="settings" msgid="5849739030579520686">"Настройки"</string>
+	
+    <!-- Setting title for showing/hiding the alarm status bar icon -->
+    <string name="show_status_bar_icon_title">Показывать значок</string>
+
+    <!-- Setting summary for showing/hiding the alarm statusbar icon -->
+    <string name="show_status_bar_icon_summary">Отображать значок в строке состояния при установленном будильнике</string>
+	
     <string name="snooze_duration_title" msgid="1097309861110780483">"Интервал повтора сигнала"</string>
   <plurals name="snooze_duration">
     <item quantity="one" msgid="7406963706727564418">"1 мин."</item>
@@ -346,4 +353,34 @@
     <string name="no_alarms" msgid="6429431324842022917">"Будильник отключен"</string>
     <string name="no_alarms_set" msgid="4887558279496044764">"Нет будильников"</string>
     <string name="no_upcoming_alarms" msgid="2889840988069436254">"СИГНАЛОВ НЕТ"</string>
+	
+    <!-- Setting labels on Set alarm screen: Increasing volume on or off -->
+    <string name="alarm_increasing_volume">Увеличение громкости</string>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Переворот</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title" product="tablet">При переворачивании планшета\u2026</string>
+    <string name="flip_action_dialog_title" product="default">При переворачивании телефона\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary" product="tablet">При переворачивании планшета <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="default">При переворачивании телефона <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">Встряхивание</string>
+
+    <!-- Dialog title for the shake action setting. -->
+    <string name="shake_action_dialog_title" product="tablet">При встряхивании планшета\u2026</string>
+    <string name="shake_action_dialog_title" product="default">При встряхивании телефона\u2026</string>
+
+    <!-- Setting summary for the shake action setting. -->
+    <string name="shake_action_summary" product="tablet">При встряхивании планшета <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary" product="default">При встряхивании телефона <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Summary texts for shake and flip actions -->
+    <string name="action_summary_do_nothing">ничего не делать</string>
+    <string name="action_summary_snooze">отложить будильник</string>
+    <string name="action_summary_dismiss">отключить будильник</string>
 </resources>
