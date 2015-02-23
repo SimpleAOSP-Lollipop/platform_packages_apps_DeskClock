@@ -362,8 +362,8 @@
     <string name="flip_action_dialog_title" product="default">Retourner le téléphone pour\u2026</string>
 
     <!-- Setting summary for the flip action setting. -->
-    <string name="flip_action_summary" product="tablet">Retourner la tablette vers le bas fera <xliff:g id="action">%s</xliff:g></string>
-    <string name="flip_action_summary" product="default">Retourner le téléphone vers le bas fera <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="tablet">Retourner la tablette vers le bas pour <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="default">Retourner le téléphone vers le bas pour <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Setting title for the shake action setting. -->
     <string name="shake_action_title">Action de secouement</string>
@@ -373,8 +373,8 @@
     <string name="shake_action_dialog_title" product="default">Secouer le téléphone pour\u2026</string>
 
     <!-- Setting summary for the shake action setting. -->
-    <string name="shake_action_summary" product="tablet">Secouer la tablette fera <xliff:g id="action">%s</xliff:g></string>
-    <string name="shake_action_summary" product="default">Secouer le téléphone fera <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary" product="tablet">Secouer la tablette pour <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary" product="default">Secouer le téléphone pour <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Summary texts for shake and flip actions -->
     <string name="action_summary_do_nothing">ne rien faire</string>
