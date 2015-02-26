@@ -360,8 +360,8 @@
     <string name="flip_action_dialog_title" product="default">Vire o telefone para\u2026</string>
 
     <!-- Setting summary for the flip action setting. -->
-    <string name="flip_action_summary" product="tablet">Virar o tablet para baixo vai <xliff:g id="action">%s</xliff:g></string>
-    <string name="flip_action_summary" product="default">Virar o telefone para baixo vai <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="tablet">Virar o tablet para baixo irá <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="default">Virar o telefone para baixo irá <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Setting title for the shake action setting. -->
     <string name="shake_action_title">Ação ao agitar</string>
@@ -371,11 +371,11 @@
     <string name="shake_action_dialog_title" product="default">Agite o telefone para\u2026</string>
 
     <!-- Setting summary for the shake action setting. -->
-    <string name="shake_action_summary" product="tablet">Agitando o tablet vai <xliff:g id="action">%s</xliff:g></string>
-    <string name="shake_action_summary" product="default">Agitando o telefone vai <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary" product="tablet">Agitando o tablet irá <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary" product="default">Agitando o telefone irá <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Summary texts for shake and flip actions -->
-    <string name="action_summary_do_nothing">Não fazer nada</string>
-    <string name="action_summary_snooze">Por em modo soneca</string>
-    <string name="action_summary_dismiss">Dispensar alarme</string>
+    <string name="action_summary_do_nothing">não fazer nada</string>
+    <string name="action_summary_snooze">por em modo soneca</string>
+    <string name="action_summary_dismiss">dispensar alarme</string>
 </resources>
